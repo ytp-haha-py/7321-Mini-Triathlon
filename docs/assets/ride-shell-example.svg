@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
+  <rect width="800" height="520" fill="#dce6ca"/>
+  <path d="M0 35H800M0 115H800M0 195H800M0 275H800M0 355H800M0 435H800M70 0V520M150 0V520M230 0V520M310 0V520M390 0V520M470 0V520M550 0V520M630 0V520M710 0V520M790 0V520" stroke="#8fa477" stroke-opacity=".12"/>
+  <ellipse cx="399" cy="439" rx="190" ry="17" fill="#101312" opacity=".09"/>
+  <path d="M348 70Q395 23 442 70L419 444" fill="none" stroke="#7e876d" stroke-width="7"/>
+  <defs><g id="shell"><path d="M-77-8Q-78-58-39-76Q-5-106 35-73Q89-69 78-17Q105 18 67 45Q49 83 13 68Q-28 84-45 49Q-88 38-77-8Z" fill="#f2efe5" stroke="#415b46" stroke-width="3"/><path d="M-57-1Q-53-46-21-52Q3-75 28-47M-59 18Q-23-35 28-29Q47-27 55-7M-34 40Q-14-1 36 4M-2 49Q14 21 44 27" fill="none" stroke="#a4b098" stroke-width="3"/><circle cx="4" cy="-39" r="7" fill="#536149"/></g></defs>
+  <use href="#shell" transform="translate(370 155) rotate(-14)"/>
+  <rect x="387" y="201" width="26" height="17" rx="4" fill="#c9ff3d" stroke="#415b46" stroke-width="2"/>
+  <use href="#shell" transform="translate(404 270) rotate(12) scale(.95)"/>
+  <rect x="405" y="317" width="26" height="17" rx="4" fill="#c9ff3d" stroke="#415b46" stroke-width="2"/>
+  <use href="#shell" transform="translate(409 376) rotate(-8) scale(.85)"/>
+  <path d="M412 452L429 433M412 433L429 452" fill="none" stroke="#536149" stroke-width="5"/>
+  <text x="40" y="43" fill="#536149" font-family="sans-serif" font-size="14" letter-spacing="3">QIGU / A LITTLE OYSTER MEMORY</text>
+  <text x="40" y="484" fill="#536149" font-family="sans-serif" font-size="14">迷你蚵殼作品示意・非實際作品照片</text>
+</svg>
